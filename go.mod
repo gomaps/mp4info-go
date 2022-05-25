@@ -1,3 +1,3 @@
 module github.com/gomaps/mp4info-go
 
-go 1.13
+go 1.18
